@@ -1,5 +1,2 @@
-# template_cv
-template rep for computer vision research using Python and pytorch
+# sample classification
 
-## using
-hoge
